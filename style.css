@@ -53,6 +53,7 @@ main {
     transform: rotate(45deg);
     background-color: #564787;
     bottom: -10px;
+    z-index: -1;
 }
 
 .wrapper .top i {
